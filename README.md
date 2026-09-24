@@ -1,18 +1,177 @@
-# 💫 About Me:
-# 👋 Hi, I'm Utkarsh Pandey<br><br>### 🤖 RPA & AI Software Specialist | Agentic AI Engineer | Automation Architect<br><br><p align="center"><br>  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Intelligent+Automation+Solutions;RPA+%7C+GenAI+%7C+Agentic+AI+%7C+Python;Designing+AI-Powered+Enterprise+Automation;Turning+Complex+Processes+into+Intelligent+Workflows" /><br></p><br><br><p align="center"><br>  <a href="https://www.linkedin.com/in/utkarshhh12/"><br>    <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Pandey-blue?style=for-the-badge&logo=linkedin" /><br>  </a><br>  <a href="mailto:Utkarshpandey8081@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /><br>  </a><br></p><br><br>---<br><br>## 🚀 About Me<br><br>I'm **Utkarsh Pandey**, an **RPA & AI Software Specialist** with **4.5+ years of experience** building enterprise automation, AI-powered solutions, and intelligent agentic systems.<br><br>My expertise sits at the intersection of:<br><br>> **RPA + Python + Generative AI + Agentic AI + Enterprise Automation**<br><br>I enjoy transforming complex business processes into scalable, intelligent, and maintainable automation solutions.<br><br>```text<br>🧠 AI / GenAI<br>        ↓<br>🤖 Agentic Intelligence<br>        ↓<br>⚙️ Automation & RPA<br>        ↓<br>🐍 Python / Backend<br>        ↓<br>🗄️ Enterprise Data<br>        ↓<br>🚀 Scalable Business Solutions<br>```<br><br>### 💼 Professional Expertise<br><br>* 🤖 RPA & Intelligent Process Automation<br>* 🧠 Generative AI & LLM Applications<br>* 🕸️ Agentic AI & Multi-Agent Systems<br>* 🔗 LangChain & LangGraph<br>* 📚 RAG & Advanced Retrieval Systems<br>* 🐍 Python Automation & Backend Development<br>* 🌐 Selenium & Playwright Automation<br>* ⚡ API & Workflow Automation<br>* 🏢 Enterprise Automation Architecture<br>* 📊 Data Migration & Reconciliation Automation<br><br>---<br><br># 🛠️ Tech Stack<br><br>## 🤖 AI / Generative AI<br><br><p><br><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" /><br><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google" /><br><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" /><br><img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" /><br><img src="https://img.shields.io/badge/AI%20Agents-6A1B9A?style=for-the-badge" /><br><img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Vector%20Databases-3949AB?style=for-the-badge" /><br></p><br><br>## ⚙️ RPA & Automation<br><br><p><br><img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath" /><br><img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate" /><br><img src="https://img.shields.io/badge/Power%20Automate%20Desktop-0078D4?style=for-the-badge" /><br><img src="https://img.shields.io/badge/REFramework-FF6F00?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" /><br><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright" /><br></p><br><br>## 🐍 Programming & Development<br><br><p><br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" /><br><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" /><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br></p><br><br>## 🚀 Backend & Databases<br><br><p><br><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" /><br><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" /><br><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" /><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" /><br><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle" /><br></p><br><br>## ☁️ Cloud & DevOps<br><br><p><br><img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle" /><br><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" /><br><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" /><br><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /><br><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" /><br><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx" /><br></p><br><br>---<br><br># 💡 Featured Projects<br><br>### 1. 🧑‍💼 HR Hiring — AI / Agentic Automation Platform<br><br>An AI-powered recruitment automation platform designed to streamline the hiring lifecycle using intelligent agents.<br><br>**Key areas:**<br><br>* 🤖 AI-powered candidate processing<br>* 📄 Resume analysis & refinement<br>* 🧠 Intelligent candidate evaluation<br>* 🔗 Agent-based workflows<br>* ⚡ Automated recruitment processes<br>* 📊 Structured candidate information<br>* 🔄 Integration of multiple AI-powered workflows<br><br>**Core Technologies:**<br>`Python` `LangChain` `LangGraph` `GenAI` `RAG` `AI Agents` `FastAPI`<br><br>---<br><br>### 2. 🏦 Bank Reconciliation AI Engine<br><br>An intelligent reconciliation solution designed to automate reconciliation between ERP, bank, merchant, and payment-channel data.<br><br>**Key capabilities:**<br><br>* 🏦 Bank statement processing<br>* 📊 ERP ledger reconciliation<br>* 🤖 AI-based transaction matching<br>* 💳 Card & payment reconciliation<br>* 📱 M-Pesa reconciliation<br>* 🔍 Exception identification<br>* 📑 Automated reconciliation reports<br>* 🧠 AI-generated insights<br><br>**Core Technologies:**<br>`Python` `GenAI` `LLM` `SQL` `PostgreSQL` `Excel Automation` `AI Matching`<br><br>---<br><br>### 3. 🔄 Data Migration Agent<br><br>An automation framework designed to simplify and accelerate enterprise data migration workflows.<br><br>**Key capabilities:**<br><br>* 📥 Automated data extraction<br>* 🔄 Data transformation<br>* 🗄️ Database mapping<br>* 🧩 Schema formation<br>* ⚡ Automated migration workflows<br>* 🔍 Data validation<br>* 📊 Migration monitoring<br>* 🤖 Agent-based processing<br><br>**Core Technologies:**<br>`Python` `PostgreSQL` `SQL` `Automation` `APIs` `AI Agents`<br><br>---<br><br># 🧠 Currently Exploring<br><br>I'm actively expanding my expertise in the next generation of AI-powered automation:<br><br>```text<br>🔗 LangGraph<br>        │<br>        ▼<br>🤖 Agentic AI<br>        │<br>        ├──► Multi-Agent Systems<br>        │<br>        ├──► Advanced RAG<br>        │<br>        ├──► MCP<br>        │<br>        └──► AI-Powered Automation<br>```<br><br>### Current Focus<br><br>* 🕸️ **LangGraph**<br>* 🤖 **Agentic AI**<br>* 📚 **Advanced RAG**<br>* 🔌 **Model Context Protocol (MCP)**<br>* ⚡ **AI-Powered Automation**<br>* 🧩 **Multi-Agent Systems**<br><br>---<br><br># 🏗️ What I Like Building<br><br>```python<br>class Utkarsh:<br>    role = "RPA & AI Software Specialist"<br><br>    expertise = [<br>        "RPA",<br>        "Generative AI",<br>        "Agentic AI",<br>        "Python Automation",<br>        "Enterprise Automation"<br>    ]<br><br>    currently_learning = [<br>        "LangGraph",<br>        "Advanced RAG",<br>        "MCP",<br>        "Multi-Agent Systems"<br>    ]<br><br>    mission = "Build intelligent systems that automate real-world problems"<br>```<br><br>---<br><br># 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Utkarshhh12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshhh12&layout=compact&theme=tokyonight&hide_border=true" height="170"/><br></p><br><br><p align="center"><br>  <img src="https://streak-stats.demolab.com?user=Utkarshhh12&theme=tokyonight&hide_border=true" /><br></p><br><br>---<br><br># 🎯 Engineering Philosophy<br><br>> **Automate the repetitive.<br>> Augment the intelligent.<br>> Build systems that scale.**<br><br>I believe the future of enterprise software lies in combining **traditional automation + AI + intelligent agents** to create systems that can understand, reason, act, and continuously improve workflows.<br><br>---<br><br># 🤝 Let's Connect<br><br><p align="center"><br><br><a href="https://www.linkedin.com/in/utkarshhh12/"><br><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin"/><br></a><br><br><a href="mailto:Utkarshpandey8081@gmail.com"><br><img src="https://img.shields.io/badge/Email-Utkarshpandey8081%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/><br></a><br><br></p><br><br><p align="center"><br><br>### 🚀 Building the future of intelligent automation, one workflow at a time.<br><br></p><br>
+# 👋 Hi, I'm Utkarsh Pandey
 
+### 🤖 RPA & AI Software Specialist | Agentic AI Engineer | Automation Architect
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Utkarshhh12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Utkarshpandey8081@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Intelligent+Automation+Solutions;RPA+%7C+GenAI+%7C+Agentic+AI+%7C+Python;AI-Powered+Enterprise+Automation;Turning+Complex+Processes+into+Intelligent+Workflows" />
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=utkarshhh12&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=utkarshhh12&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=utkarshhh12&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarshhh12/">
+    <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Utkarshpandey8081@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=utkarshhh12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm **Utkarsh Pandey**, an **RPA & AI Software Specialist** with **4.5+ years of experience** in enterprise automation, Generative AI, Agentic AI, and intelligent process automation.
+
+My expertise combines:
+
+**RPA + Python + GenAI + Agentic AI + Enterprise Automation**
+
+I enjoy transforming complex business processes into scalable, intelligent, and maintainable automation solutions.
+
+### 💼 What I Do
+
+- 🤖 RPA & Intelligent Process Automation
+- 🧠 Generative AI & LLM Applications
+- 🕸️ Agentic AI & Multi-Agent Systems
+- 🔗 LangChain & LangGraph
+- 📚 RAG & Advanced Retrieval Systems
+- 🐍 Python Automation & Backend Development
+- 🌐 Selenium & Playwright Automation
+- ⚡ API & Workflow Automation
+- 🏢 Enterprise Automation Architecture
+- 📊 Data Migration & Reconciliation Automation
+
+---
+
+# 🛠️ Tech Stack
+
+### 🤖 AI & Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=flat)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6A1B9A?style=flat)
+![Vector DB](https://img.shields.io/badge/Vector_DB-3949AB?style=flat)
+
+### ⚙️ RPA & Automation
+
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![Power Automate Desktop](https://img.shields.io/badge/Power_Automate_Desktop-0078D4?style=flat)
+![REFramework](https://img.shields.io/badge/REFramework-FF6F00?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+### 🐍 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+### 🚀 Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![OCI](https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+---
+
+# 💡 Featured Projects
+
+## 🧑‍💼 HR Hiring — AI / Agentic Automation Platform
+
+AI-powered recruitment automation platform designed to streamline the hiring lifecycle using intelligent agents.
+
+**Key Capabilities**
+
+- 🤖 AI-powered candidate processing
+- 📄 Resume analysis & refinement
+- 🧠 Intelligent candidate evaluation
+- 🔗 Agent-based workflows
+- ⚡ Automated recruitment processes
+- 📊 Structured candidate information
+- 🔄 Multiple AI-powered workflows
+
+**Tech:** `Python` `LangChain` `LangGraph` `GenAI` `RAG` `AI Agents` `FastAPI`
+
+---
+
+## 🏦 Bank Reconciliation AI Engine
+
+Intelligent reconciliation solution designed to automate reconciliation between ERP, bank, merchant, and payment-channel data.
+
+**Key Capabilities**
+
+- 🏦 Bank statement processing
+- 📊 ERP ledger reconciliation
+- 🤖 AI-based transaction matching
+- 💳 Card & payment reconciliation
+- 📱 M-Pesa reconciliation
+- 🔍 Exception identification
+- 📑 Automated reconciliation reports
+- 🧠 AI-generated insights
+
+**Tech:** `Python` `GenAI` `LLM` `SQL` `PostgreSQL` `Excel Automation` `AI Matching`
+
+---
+
+## 🔄 Data Migration Agent
+
+Automation framework designed to simplify and accelerate enterprise data migration workflows.
+
+**Key Capabilities**
+
+- 📥 Automated data extraction
+- 🔄 Data transformation
+- 🗄️ Database mapping
+- 🧩 Schema formation
+- ⚡ Automated migration workflows
+- 🔍 Data validation
+- 📊 Migration monitoring
+- 🤖 Agent-based processing
+
+**Tech:** `Python` `PostgreSQL` `SQL` `APIs` `Automation` `AI Agents`
+
+---
+
+# 🧠 Currently Exploring
+
+I'm actively working toward the next generation of AI-powered automation.
+
+- 🕸️ **LangGraph**
+- 🤖 **Agentic AI**
+- 📚 **Advanced RAG**
+- 🔌 **Model Context Protocol (MCP)**
+- ⚡ **AI-Powered Automation**
+- 🧩 **Multi-Agent Systems**
+
+```text
+          🧠 Generative AI
+                 │
+                 ▼
+          🤖 Agentic AI
+                 │
+        ┌────────┼────────┐
+        ▼        ▼        ▼
+      RAG      MCP    Multi-Agent
+        │        │        │
+        └────────┼────────┘
+                 ▼
+          ⚙️ Intelligent
+             Automation
